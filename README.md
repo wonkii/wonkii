@@ -23,17 +23,20 @@
 ###
 
 <p align="left">
-  I'm a Game Developer
+  I'm interested in Game AI(RL, IL etc...)
+  <br>
   <br>
   - I’m studying at Kyung Hee University
   <br>
   I major in Software Convergence, specifically Game 🎮
   <br>
-  - 📚 I'm currently learning Reinforcement Learning with Unity
+  <br>
+  📚 I'm currently learning Reinforcement Learning with Unity
   <br>
   you can see the details about in my portfolio site which is on the top of the page.
   <br>
-  - 🌈 One day, i want to work in AI R&amp;D
+  <br>
+  🌈 One day, i want to work in AI R&amp;D
 </p>
 
 
