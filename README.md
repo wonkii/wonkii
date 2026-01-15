@@ -1,12 +1,58 @@
-<h1>!Hi Welcome to my Github!</h1>
-<div align=left>
-	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Languages ✨</p>
-	<div align="left">
-	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C&logoColor=white" />
-	<p>✨ Tools ✨</p>
-	<div align="left">
-	<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat&logo=UE5&logoColor=white"/>
+<div align="center">
+  <a href="https://wonkii.github.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge"
+         height="25"
+         alt="My Portfolio Site" />
+  </a>
+
+  <a href="https://www.youtube.com/@%EC%9E%A5%EC%9B%90%EC%A4%80-SWD" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge"
+         height="25"
+         alt="My YouTube Channel" />
+  </a>
 </div>
 
+###
+
+<h1 align="center"> !!Welcome to my Github!!👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm a Game Developer
+	<br>
+	<br>
+	-  I’m studying at KyungHee university
+	<br> I major in SoftwareConvergence. specifically Game 🎮
+	
+	<br>
+	- 📚 I'm currently learning Reinforcement Learning with Unity
+	<br> you can see the details about in my portfolio site
+	
+	<br>
+	- 🌈 One day, i want to work in AI R&D 
+	
+</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="file:///C:/Users/wonkii/Downloads/unrealengine.svg" height="40" alt="UE logo"  />
+  <img width="12" />
+  <img src="file:///C:/Users/wonkii/Downloads/python-logo-generic.svg" height="40" alt="Python logo"  />
+  <img width="12" />
+  <img src="file:///C:/Users/wonkii/Downloads/icons8-c++.svg" height="40" alt="C++ logo"  />
+  
+</div>
+
+###
+
+
+###
