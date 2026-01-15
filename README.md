@@ -34,8 +34,7 @@
 	
 	<br>
 	- 🌈 One day, i want to work in AI R&D 
-	
-</p>
+	</p>
 
 ###
 
