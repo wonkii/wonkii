@@ -26,9 +26,9 @@
   I'm interested in Game AI(RL, IL etc...)
   <br>
   <br>
-  - I’m studying at Kyung Hee University
+  :man_student: I’m studying at Kyung Hee University(since 2022~)
   <br>
-  I major in Software Convergence, specifically Game 🎮
+  🎮 I major in Software Convergence, specifically Game 
   <br>
   <br>
   📚 I'm currently learning Reinforcement Learning with Unity
@@ -47,12 +47,11 @@
 ###
 
 <div align="left">
-  <img src="file:///C:/Users/wonkii/Downloads/unrealengine.svg" height="40" alt="UE logo"  />
+  <img src="./assets/icons/unrealengine.svg" height="40" alt="UE logo" />
   <img width="12" />
-  <img src="file:///C:/Users/wonkii/Downloads/python-logo-generic.svg" height="40" alt="Python logo"  />
+  <img src="./assets/icons/python-logo-generic.svg" height="40" alt="Python logo" />
   <img width="12" />
-  <img src="file:///C:/Users/wonkii/Downloads/icons8-c++.svg" height="40" alt="C++ logo"  />
-  
+  <img src="./assets/icons/icons8-cpp.svg" height="40" alt="C++ logo" />
 </div>
 
 ###
