@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1>!Hi Welcome to my Github!</h1>
+<div align=center>
+	<h3>📚 Tech Stack 📚</h3>
+	<p>✨ Languages ✨</p>
+</div>
+<div align="left">
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C&logoColor=white" />
+</div>
+  <p>✨ Tools ✨</p>
+<div align="right">
+  <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat&logo=UE5&logoColor=white"/>
 
-<!--
-**wonkii/wonkii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
