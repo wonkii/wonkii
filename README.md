@@ -33,7 +33,7 @@
   <br>
   📚 I'm currently learning Reinforcement Learning with Unity
   <br>
-  you can see the details about in my portfolio site which is on the top of the page.
+  - you can see the details about in my portfolio site(GitHub) which is on the top of the page.
   <br>
   <br>
   🌈 One day, i want to work in AI R&amp;D
