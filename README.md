@@ -22,19 +22,23 @@
 
 ###
 
-<p align="left">I'm a Game Developer
-	<br>
-	<br>
-	-  I’m studying at KyungHee university
-	<br> I major in SoftwareConvergence. specifically Game 🎮
-	
-	<br>
-	- 📚 I'm currently learning Reinforcement Learning with Unity
-	<br> you can see the details about in my portfolio site
-	
-	<br>
-	- 🌈 One day, i want to work in AI R&D 
-	</p>
+<p align="left">
+  I'm a Game Developer
+  <br><br>
+
+  - I’m studying at Kyung Hee University
+  <br>
+  I major in Software Convergence, specifically Game 🎮
+  <br><br>
+
+  - 📚 I'm currently learning Reinforcement Learning with Unity
+  <br>
+  you can see the details about in my portfolio site
+  <br><br>
+
+  - 🌈 One day, i want to work in AI R&amp;D
+</p>
+
 
 ###
 
